@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-**Son güncelleme:** 4 Kasım 2026
+**Son güncelleme:** 8 Kasım 2026
 
 Bu politika, Fonksiyonel Fitness Timer mobil uygulamasının ("Uygulama") kişisel verilerinizi nasıl topladığını, kullandığını, paylaştığını ve koruduğunu açıklar. 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve Genel Veri Koruma Tüzüğü (GDPR) esas alınarak hazırlanmıştır.
 
@@ -13,7 +13,7 @@ Bu politika, Fonksiyonel Fitness Timer mobil uygulamasının ("Uygulama") kişis
 |---|---|---|
 | Hesap | E-posta adresi, ad, kullanıcı adı. Google ile girişte Google hesabınızın adı ve e-postası. Zamanlayıcıları hesap açmadan kullanırken hesap verisi toplanmaz. | Kayıt / giriş |
 | Profil | Profil fotoğrafı, biyografi, favori hareket | Siz eklediğinizde |
-| Antrenman | Antrenman adı ve modu, süre, tur/tekrar, kaldırılan ağırlık, kişisel rekorlar, XP, seri, lig ve rozetler | Antrenman kaydettiğinizde |
+| Antrenman | Tamamlanan zamanlayıcı antrenmanları (mod, süre, tur, çalışma/dinlenme süresi, tarih); kaydettiğiniz skorlar (antrenman adı, süre, tur/tekrar, kaldırılan ağırlık), kişisel rekorlar, XP, seri, lig ve rozetler | Giriş yapmışken antrenman tamamladığınızda veya skor kaydettiğinizde |
 | Topluluk | Paylaştığınız antrenmanlar, yorumlar, beğeniler, şikayet ettiğiniz içerikler ve engellediğiniz kullanıcılar | Topluluk özelliklerini kullandığınızda |
 | Bildirim | Firebase Cloud Messaging cihaz belirteci, pazarlama bildirimi tercihiniz | Bildirimlere izin verdiğinizde |
 | Satın alma | Premium abonelik durumu ve satın alma kayıtları (RevenueCat üzerinden). Kart ve ödeme bilgileriniz yalnızca Google Play tarafından işlenir, bize ulaşmaz. | Abonelik aldığınızda |
@@ -24,7 +24,7 @@ Bu politika, Fonksiyonel Fitness Timer mobil uygulamasının ("Uygulama") kişis
 
 - **Health Connect:** İzin verirseniz tamamlanan antrenmanı egzersiz kaydı ve tahmini yakılan kalori olarak Health Connect'e **yazarız**. Health Connect'ten hiçbir veri **okumayız**. Bu veriler sunucularımıza gönderilmez ve reklam amacıyla kullanılmaz.
 - **Bluetooth nabız bandı:** Bağladığınız nabız bandından okunan nabız yalnızca cihazınızın ekranında gösterilir; saklanmaz ve sunucularımıza gönderilmez.
-- Antrenman sonuçlarınız (süre, tur, tekrar) hesabınızla ilişkilendirilerek saklanır.
+- Giriş yapmışken tamamladığınız antrenmanlar ve kaydettiğiniz skorlar hesabınızla ilişkilendirilerek saklanır ve cihazlarınız arasında eşitlenir. Giriş yapmadan yaptığınız antrenmanlar yalnızca cihazınızda kalır; giriş yaptığınızda bunları hesabınıza aktarmak isteyip istemediğiniz sorulur.
 
 ### Cihaz izinleri
 
