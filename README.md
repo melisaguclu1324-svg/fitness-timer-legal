@@ -15,6 +15,7 @@ Lütfen incelemek istediğiniz dili ve belgeyi aşağıdan seçin:
 * [Privacy Policy](privacy-en.md)
 * [Terms of Use](terms-en.md)
 * [Account Deletion](account-deletion.md)
+* [Consumer Health Data Privacy Policy](consumer-health-data.md) (Washington & Nevada, USA)
 
 ---
 *Yayıncı: Melisa Güçlü · İletişim ve destek için: melisaguclu@protonmail.com*
