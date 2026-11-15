@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated:** November 8, 2026
+**Last updated:** November 15, 2026
 
-This policy explains how the Fonksiyonel Fitness Timer mobile app (the "App") collects, uses, shares and protects your personal data. It follows Turkey's Personal Data Protection Law No. 6698 (KVKK) and the EU General Data Protection Regulation (GDPR).
+This policy explains how the Fonksiyonel Fitness Timer mobile app (the "App") collects, uses, shares and protects your personal data. It follows Turkey's Personal Data Protection Law No. 6698 (KVKK), the EU and UK General Data Protection Regulation (GDPR) and US state privacy laws.
 
 **Data controller:** Melisa Güçlü (publisher of Fonksiyonel Fitness Timer)
 **Contact:** melisaguclu@protonmail.com
@@ -16,7 +16,7 @@ This policy explains how the Fonksiyonel Fitness Timer mobile app (the "App") co
 | Workouts | Completed timer workouts (mode, duration, rounds, work/rest time, date); scores you save (workout name, time, rounds/reps, weight lifted), personal records, XP, streak, league and badges | When you complete a workout or save a score while signed in |
 | Community | Workouts you share, comments, likes, content you report and users you block | When you use community features |
 | Notifications | Firebase Cloud Messaging device token, your marketing notification preference | When you allow notifications |
-| Purchases | Premium subscription status and purchase records (via RevenueCat). Card and payment details are processed only by Google Play and never reach us. | When you subscribe |
+| Purchases | Premium status and purchase records (subscription or one-time purchase; via RevenueCat). Card and payment details are processed only by Google Play and never reach us. | When you buy premium |
 | Advertising | Advertising ID, IP address, device information | While ads are shown in the free version |
 | Technical | Crash reports (device model, OS, app version, error log), bot-protection signals | When the app crashes / during sign-in and sign-up |
 
@@ -43,14 +43,14 @@ This policy explains how the Fonksiyonel Fitness Timer mobile app (the "App") co
 - Run the community feed, comments, reporting and blocking; remove content and accounts that violate the Terms of Use
 - Send notifications (marketing notifications only with your consent)
 - Detect errors and improve the App
-- Show ads in the free version and manage premium subscriptions
+- Show ads in the free version and manage premium purchases
 - Comply with legal obligations
 
-**Legal bases (KVKK Art. 5, GDPR Art. 6):** performance of a contract (account and app features), legitimate interest (security, error detection, moderation), consent (marketing notifications, international transfers, personalized ads in the EU/EEA/UK) and legal obligation.
+**Legal bases (KVKK Art. 5, GDPR Art. 6):** performance of a contract (account and app features), legitimate interest (security, error detection, moderation), consent (marketing notifications; personalized ads in the EU/EEA/UK; international transfers for users in Turkey under KVKK Art. 9) and legal obligation. Creating an account is not conditional on consenting to marketing or personalized ads. Workout data you record may say something about your health or fitness; we process it only to provide the features you use, never for advertising.
 
 ## 3. Who we share data with
 
-We **do not sell** your data. We share it only with the service providers below, to run the App:
+We **do not sell** your data for money. We share it only with the service providers below, to run the App. To show ads, Google AdMob receives your advertising ID, IP address and device information; some US state laws treat this as "sharing" or "targeted advertising", and section 4 explains how to opt out. Your workout data is never sent to AdMob.
 
 | Provider | Purpose | Location |
 |---|---|---|
@@ -59,7 +59,7 @@ We **do not sell** your data. We share it only with the service providers below,
 | Google LLC — Firebase Crashlytics | Crash reports | USA / global |
 | Google LLC — AdMob | Showing and measuring ads | USA / global |
 | Google LLC — Google Sign-In | Authentication | USA / global |
-| RevenueCat Inc. | Subscription status management | USA |
+| RevenueCat Inc. | Subscription and purchase status management | USA |
 | Cloudflare Inc. — Turnstile | Bot and abuse protection | USA / global |
 
 Your username, profile photo, league ranking and the workouts you share are visible to other users of the App. Your workout history is visible only to you; leaderboards show only your best score.
@@ -68,18 +68,18 @@ We may disclose information to authorities where required by law.
 
 ### International transfers
 
-Some providers are located outside Turkey, so your data is transferred abroad. This transfer is based on the explicit consent you give at sign-up.
+Our database is hosted in the EU (Frankfurt). Some providers are located in the United States or operate globally, so data may be transferred outside your country. For users in the EEA, the UK and Switzerland these transfers rely on the standard contractual clauses in our providers' data processing terms or on the provider's certification under the EU–US Data Privacy Framework. For users in Turkey the transfer is based on the explicit consent given at sign-up (KVKK Art. 9).
 
 ## 4. Ads and consent
 
-In the free version, a Google AdMob ad is shown when the App opens; premium subscribers see no ads. Users in the EU, EEA and UK are asked for consent through Google's consent form before any ad is shown. You can change this choice in Settings > Ad Privacy Options. You can reset your advertising ID or opt out of personalized ads in your device settings.
+The free version shows Google AdMob ads: an app-open ad when the App starts, and banner ads at the bottom of the home, History and WOD screens. No ads are shown on the running timer. You can also choose to watch a rewarded ad to unlock a premium feature for 24 hours; this unlock is stored only on your device. Premium users see no ads. Users in the EU, EEA and UK are asked for consent through Google's consent form before any ad is shown. You can change this choice in Settings > Ad Privacy Options. You can reset your advertising ID or opt out of personalized ads in your device settings. If you live in a US state with a privacy law, you can opt out of targeted advertising the same way: Settings > Ad Privacy Options (where shown) or the ad personalization setting of your device.
 
 ## 5. Retention and account deletion
 
 - We keep your data while your account is open.
 - **Deleting your account:** In the App, go to Profile > Settings > "Delete My Account and All Data" to delete it immediately. If you cannot access the App, follow the steps on the [Account Deletion page](account-deletion.html).
 - When your account is deleted, your profile, workout history, community content, notification token and preferences are permanently deleted.
-- Subscription records may be kept by Google Play and RevenueCat under their own legal retention obligations. You must cancel the subscription separately in Google Play.
+- Subscription and purchase records may be kept by Google Play and RevenueCat under their own legal retention obligations. If you have a subscription, you must cancel it separately in Google Play.
 - Crash reports are kept by Firebase for at most 90 days.
 
 ## 6. Security
@@ -88,11 +88,17 @@ Data is encrypted in transit with TLS and stored encrypted at rest. Database acc
 
 ## 7. Children
 
-The App is not directed to children under 13, and we do not knowingly collect data from them. If you believe a child has created an account, contact us and we will delete it.
+The App is not directed to children under 13, and we do not knowingly collect data from them. You must be over 18 to create an account, and you confirm this when you sign up. If you believe a child has created an account, contact us and we will delete it.
 
 ## 8. Your rights
 
-Under KVKK Art. 11 and the GDPR you have the right to know whether your data is processed, to request information and a copy, to rectify or erase it, to object to processing, to learn which third parties received it, to withdraw consent and to claim compensation. Send requests to melisaguclu@protonmail.com; we reply within 30 days. You may also complain to Turkey's Personal Data Protection Authority or to the data protection authority in your country.
+Under KVKK Art. 11 and the GDPR you have the right to know whether your data is processed, to request information and a copy, to rectify or erase it, to restrict or object to processing, to receive your data in a portable format, to learn which third parties received it, to withdraw consent and to claim compensation. Send requests to melisaguclu@protonmail.com; we reply within 30 days. You may also complain to Turkey's Personal Data Protection Authority or to the data protection authority in your country.
+
+### US residents
+
+If you live in a US state with a privacy law (for example California, Colorado, Connecticut, Texas or Virginia), you can ask us to confirm, access, correct or delete your personal data, to give you a portable copy and to opt you out of targeted advertising. Email melisaguclu@protonmail.com from the address on your account. If we refuse a request, you can appeal by replying to our decision; we answer appeals within 45 days. We do not treat you differently for using these rights.
+
+Residents of Washington and Nevada: see our [Consumer Health Data Privacy Policy](consumer-health-data.html).
 
 ## 9. Changes
 
