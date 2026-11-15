@@ -24,7 +24,7 @@ Hesabınız ve verileriniz anında kalıcı olarak silinir.
 
 ## Saklanabilecek veriler
 
-- Abonelik ve satın alma kayıtları, Google Play ve RevenueCat tarafından kendi yasal yükümlülükleri çerçevesinde tutulabilir. Aboneliğinizi Google Play'den ayrıca iptal etmeniz gerekir.
+- Abonelik ve satın alma kayıtları, Google Play ve RevenueCat tarafından kendi yasal yükümlülükleri çerçevesinde tutulabilir. Aboneliğiniz varsa Google Play'den ayrıca iptal etmeniz gerekir.
 - Çökme raporları Firebase'de en fazla 90 gün saklanır ve sonra otomatik silinir.
 - Health Connect'e yazılan antrenmanlar cihazınızdaki Health Connect'te kalır; oradan silebilirsiniz.
 
@@ -56,6 +56,6 @@ Email **melisaguclu@protonmail.com** from the email address on your account, wit
 
 ## Data that may be kept
 
-- Subscription and purchase records may be kept by Google Play and RevenueCat under their own legal obligations. Cancel your subscription separately in Google Play.
+- Subscription and purchase records may be kept by Google Play and RevenueCat under their own legal obligations. If you have a subscription, cancel it separately in Google Play.
 - Crash reports are kept in Firebase for at most 90 days and then deleted automatically.
 - Workouts written to Health Connect stay in Health Connect on your device; you can delete them there.
