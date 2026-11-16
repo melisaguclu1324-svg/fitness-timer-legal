@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1A1A2E;
+  color: #FFFFFF;
+  font-family: 'Orbitron', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#container {
+  text-align: center;
+  width: 80%;
+  max-width: 1200px;
+}
+
+#phase-label {
+  font-size: 64px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+#remaining-time {
+  font-size: 240px;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 40px;
+  text-shadow: 0 8px 32px rgba(0,0,0,0.5);
+}
+
+#round-info {
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #A0A0B0;
+}
+
+#mode-name {
+  font-size: 32px;
+  color: #606070;
+  margin-bottom: 60px;
+}
+
+#progress-bar {
+  width: 100%;
+  height: 16px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+#progress-fill {
+  height: 100%;
+  width: 0%;
+  background-color: #E63946;
+  transition: width 1s linear;
+}
+
+/* Phase Colors */
+.phase-prepare { color: #457B9D; }
+.phase-work { color: #E63946; }
+.phase-rest { color: #2A9D8F; }
+.phase-cooldown { color: #9D4EDD; }
