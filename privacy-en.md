@@ -72,7 +72,7 @@ Our database is hosted in the EU (Frankfurt). Some providers are located in the 
 
 ## 4. Ads and consent
 
-The free version shows Google AdMob ads: an app-open ad when the App starts, and banner ads at the bottom of the home, History and WOD screens. No ads are shown on the running timer. You can also choose to watch a rewarded ad to unlock a premium feature for 24 hours; this unlock is stored only on your device. Premium users see no ads. Users in the EU, EEA and UK are asked for consent through Google's consent form before any ad is shown. You can change this choice in Settings > Ad Privacy Options. You can reset your advertising ID or opt out of personalized ads in your device settings. If you live in a US state with a privacy law, you can opt out of targeted advertising the same way: Settings > Ad Privacy Options (where shown) or the ad personalization setting of your device.
+The free version shows Google AdMob ads: banner ads at the bottom of the home, History and WOD screens. No ads are shown on the running timer. You can also choose to watch a rewarded ad to unlock a premium feature for 24 hours; this unlock is stored only on your device. Premium users see no ads. Users in the EU, EEA and UK are asked for consent through Google's consent form before any ad is shown. You can change this choice in Settings > Ad Privacy Options. You can reset your advertising ID or opt out of personalized ads in your device settings. If you live in a US state with a privacy law, you can opt out of targeted advertising the same way: Settings > Ad Privacy Options (where shown) or the ad personalization setting of your device.
 
 ## 5. Retention and account deletion
 
